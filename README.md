@@ -1,5 +1,18 @@
 <header>
-
+search minimum
+  search minimum list(l.n)
+  minvalue=l[1]
+  counter=2
+  while (count <=n)
+    V = L [counter]
+    if (v <minv value)
+            minvalue=v
+            else
+            pass
+            endif
+            endwhile
+            returmin value
+            endsearch min from list
 ![Deprecation Badge](https://img.shields.io/badge/Skills-Deprecated-333?logo=github&labelColor=454c54&color=bf8700)
 
 This course has been deprecated. Please visit the [Getting Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot) exercise for the newest learning content.
